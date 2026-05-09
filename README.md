@@ -23,7 +23,8 @@
     </div>
   </div>
 </section>
-<style>:root {
+<style>
+  :root {
   --neon-cyan: #00f5ff;
   --neon-pink: #ff00ff;
   --bg-dark: #0b0e14;
